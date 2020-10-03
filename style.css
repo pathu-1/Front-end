@@ -1,0 +1,18 @@
+.nav-border{
+    border-bottom: 2px solid;
+    border-image: linear-gradient(-45deg,#00F260,#0575E6);
+    border-image-slice: 1;
+ }
+
+ .div-image{
+    background-image: url("luke-chesser-pJadQetzTkI-unsplash.jpg");
+ }
+
+ @media screen and (max-width: 576px){
+    .div1{
+       align-items: center;
+    }
+    .div2{
+       align-items: center;
+    }
+ }
