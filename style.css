@@ -8,11 +8,6 @@
     background-image: url("luke-chesser-pJadQetzTkI-unsplash.jpg");
  }
 
- @media screen and (max-width: 576px){
-    .div1{
-       align-items: center;
-    }
-    .div2{
-       align-items: center;
-    }
- }
+html{
+   scroll-behavior: smooth;
+}
